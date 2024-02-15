@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "896880883525",
+    "project_id": "lookup-c936d",
+    "storage_bucket": "lookup-c936d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896880883525:android:e5818d2193ec4955af302c",
+        "android_client_info": {
+          "package_name": "com.example.look"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtHr5GKSg7f90L3akEkQozbDxAvoQKfUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
