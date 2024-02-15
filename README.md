@@ -31,16 +31,12 @@ LookUp претставува chat апликација преку која ко
 
 ## Екрани од апликацијата во IOS Simulator
 
-<img width="351" alt="Screenshot 2024-02-15 at 20 19 15" src="https://github.com/ivanjankoski-metergram/lookup/assets/137386557/1575a145-a86e-48e1-9e70-40101ab9ef5a">
-
-<img width="356" alt="Screenshot 2024-02-15 at 20 20 22" src="https://github.com/ivanjankoski-metergram/lookup/assets/137386557/d294a50d-c788-4d3c-ab92-b64350765f6a">
-
-<img width="357" alt="Screenshot 2024-02-15 at 20 30 32" src="https://github.com/ivanjankoski-metergram/lookup/assets/137386557/a4602fd9-6d9a-4834-b0fa-9b6ea19c6dfe">
-
-<img width="355" alt="Screenshot 2024-02-15 at 20 32 59" src="https://github.com/ivanjankoski-metergram/lookup/assets/137386557/029d0778-d8e1-4f0d-b561-ad0e5e8e62b1">
-
-<img width="355" alt="Screenshot 2024-02-15 at 20 34 42" src="https://github.com/ivanjankoski-metergram/lookup/assets/137386557/5b64ceff-0412-43ae-be58-68e8b14d4841">
-
+<img width="355" alt="Screenshot 2024-02-15 at 22 07 31" src="https://github.com/ivanjankoski11/mis_proket/assets/108348725/e471c3d6-a6b7-4daf-b535-ec4016ebc104">
+<img width="355" alt="Screenshot 2024-02-15 at 22 04 57" src="https://github.com/ivanjankoski11/mis_proket/assets/108348725/abe48e9d-6986-4d9d-bfa6-f0f48c3ee395">
+<img width="357" alt="Screenshot 2024-02-15 at 22 08 12" src="https://github.com/ivanjankoski11/mis_proket/assets/108348725/aa135235-57e3-4c7f-8cca-e2444ce380bb">
+<img width="357" alt="Screenshot 2024-02-15 at 22 06 35" src="https://github.com/ivanjankoski11/mis_proket/assets/108348725/8d628f46-8fd6-439b-94eb-ea64aca5c104">
+<img width="355" alt="Screenshot 2024-02-15 at 22 06 53" src="https://github.com/ivanjankoski11/mis_proket/assets/108348725/6435770f-34c8-49e1-b623-3493d8b7ed68">
+<img width="358" alt="Screenshot 2024-02-15 at 22 07 06" src="https://github.com/ivanjankoski11/mis_proket/assets/108348725/76687712-63e1-4b3e-a12e-b6bab2d6639a">
 <img width="355" alt="Screenshot 2024-02-15 at 20 34 42" src="https://github.com/ivanjankoski-metergram/look/assets/137386557/fd92a8bd-8c54-4a78-8f14-88c3c45a0e78">
 
 
