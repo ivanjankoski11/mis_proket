@@ -1,16 +1,47 @@
-# look
+# LookUp
 
-A new Flutter project.
+LookUp претставува chat апликација преку која корисниците можат да комуницираат меѓу себе.
 
-## Getting Started
+## Веб сервиси
+Во апликацијата е искористен веб сервисот на Google Firebase и Google Maps.
+  - Authentication (за најавување преку Google)
+  - Firestore (за менаџирање на податоците)
 
-This project is a starting point for a Flutter application.
+## Најава
+Секој корисник може едноставно да се најави преку својот Google account со притискање на копче SignIn with Google.
 
-A few resources to get you started if this is your first Flutter project:
+## Почетен екран
+На почетниот екран се прикажани сите контакти на најавениот корисник како и листата од пораки.
+Корисникот може да напише нова порака на друг корисник со тоа што ќе кликне на неговата слика и автоматски се отвора Chat екранот на кој може да се пишуваат пораки.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Chat екран
+Овој екран ги прикажува пораките и сликите кои се разменети помеѓу корисниците.
+Корисникот може да напише порака или да му прати слика на некого.
+Под секоја порака е прикажано времето во кое таја порака била пратена.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Профил екран
+Во овој екран се прикажани основните податоци на корисникот кој е најавен заедно со некои поставки како пример Logout.
+Кога корисникот ќе се одјави од апликацијата тој е пренасочен кон екранот за најава.
+
+## Контакти екран
+Екранот ги прикажува сите контакти на најавениот корисник и има копче за додавање на нов корисник при што се отвора форма во која се пишува името на корисникот кој сака да го додаде во контакти. Откако ќе се притисне зачувај корисникот ќе биде додаден во неговите контакти.
+
+## Мапа
+На екранот со мапа се прикажани локациите на корисниците кои дозволиле апликацијата да ја користи нивната локација.
+
+## Екрани од апликацијата во IOS Simulator
+
+<img width="351" alt="Screenshot 2024-02-15 at 20 19 15" src="https://github.com/ivanjankoski-metergram/lookup/assets/137386557/1575a145-a86e-48e1-9e70-40101ab9ef5a">
+
+<img width="356" alt="Screenshot 2024-02-15 at 20 20 22" src="https://github.com/ivanjankoski-metergram/lookup/assets/137386557/d294a50d-c788-4d3c-ab92-b64350765f6a">
+
+<img width="357" alt="Screenshot 2024-02-15 at 20 30 32" src="https://github.com/ivanjankoski-metergram/lookup/assets/137386557/a4602fd9-6d9a-4834-b0fa-9b6ea19c6dfe">
+
+<img width="355" alt="Screenshot 2024-02-15 at 20 32 59" src="https://github.com/ivanjankoski-metergram/lookup/assets/137386557/029d0778-d8e1-4f0d-b561-ad0e5e8e62b1">
+
+<img width="355" alt="Screenshot 2024-02-15 at 20 34 42" src="https://github.com/ivanjankoski-metergram/lookup/assets/137386557/5b64ceff-0412-43ae-be58-68e8b14d4841">
+
+<img width="355" alt="Screenshot 2024-02-15 at 20 34 42" src="https://github.com/ivanjankoski-metergram/look/assets/137386557/fd92a8bd-8c54-4a78-8f14-88c3c45a0e78">
+
+
+
